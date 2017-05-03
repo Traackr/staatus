@@ -1,0 +1,6 @@
+{
+  "name": "Staatus: PHP",
+  "description": "A PHP app for enabling a "/staatus" slash command for your Slack team.",
+  "repository": "https://github.com/heroku/php-getting-started",
+  "addons": []
+}
