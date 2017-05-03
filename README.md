@@ -1,6 +1,6 @@
 # staatus
 
-A PHP app for enabling a "/staatus" slash command for your Slack team. Makes use of the [Silex](http://silex.sensiolabs.org/) web framework, which can easily be deployed to Heroku.
+A PHP app for enabling a "/staatus" Slack command for querying your team's status. Makes use of the [Silex](http://silex.sensiolabs.org/) web framework, which can easily be deployed to Heroku.
 
 ## Deploying
 
