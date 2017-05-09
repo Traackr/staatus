@@ -9,8 +9,8 @@ Install the [Heroku Toolbelt](https://toolbelt.heroku.com/).
 ```sh
 $ git clone <this>
 $ cd staatus
-$ sed -i -e 's/<VERIFY_TOKEN>/<your app verification token>/g' web/index.php
-$ sed -i -e 's/<AUTH_TOKEN>/<your app oauth access token>/g' web/index.php
+$ sed -i -e 's/<VERIFY_TOKEN>/<your app verification token>/g' settings.php
+$ sed -i -e 's/<AUTH_TOKEN>/<your app oauth access token>/g' settings.php
 $ git commit
 $ heroku create
 $ git push heroku master
